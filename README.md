@@ -6,8 +6,7 @@
 🔴 $\textsf{\color[rgb]{1.0, 0.0, 0.0}Important Note :}$ $\textsf{\color[rgb]{0.0, 0.0, 0.0}A few very important points that you should pay attention to}$ 🔴
 | No.                      | Description                                                                                    |
 |------------------------------|------------------------------------------------------------------------------------------------|
-| 1.        | To use the robot, Python 3.10 must be installed.                      |
-| 2.        | After entering the query_id in the data.txt file and running the Python robot, do not under any circumstances enter the Telegram Bot with any device, as it will cause your query_id code to change and the Python robot will not be able to work properly for you.                      |
+| 1.        | To use the robot, Python 3.10 must be installed.   |                 
 
 
 ## Functionality
