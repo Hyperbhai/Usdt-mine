@@ -38,7 +38,7 @@
 
 3. install the require library
    ```
-   python -m pip install -r requirements.txt
+   pip install -r requirements.txt
    ```
 4. For registration of sessions run register.py (you can add multiple sessions)
    ```
